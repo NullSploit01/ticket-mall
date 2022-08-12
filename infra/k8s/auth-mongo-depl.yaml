@@ -23,7 +23,7 @@ metadata:
   name: auth-mongo-srv
 spec:
   selector:
-    app: auth-mono
+    app: auth-mongo
   ports:
     - name: db
       protocol: TCP
